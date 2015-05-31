@@ -1,0 +1,16 @@
+{
+  "name": "onepagegallery",
+  "version": "0.0.0",
+  "homepage": "https://github.com/keithreynoldsworld/onepagegallery",
+  "authors": [
+    "Keith Reynolds <keithreynoldsworld@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

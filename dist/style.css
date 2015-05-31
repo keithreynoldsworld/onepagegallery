@@ -1,0 +1,36 @@
+body{
+	background: pink;
+	font-size: 16px;
+	
+	}
+
+div{
+	background:pink;
+	text-align: center;
+	font-size: 25px;
+	
+	}
+
+section{
+	background:pink;
+	padding:25px;
+	font-size: 50px;
+	}
+
+li{	margin-top:20px;
+	background:gray;
+	font-size: 20px;
+	display: block;
+	}
+
+header{
+	background: black;
+	color:white;
+	font-size: 50px;
+}
+
+.col-md-3{
+	background: blue;
+	height: 100%;
+	padding-top:120px;
+}
